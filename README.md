@@ -9,4 +9,4 @@
 #### Submission link - https://www.kaggle.com/jonathanobise/exercise-syntax-variables-and-numbers
 
 ## [30 Days of ML] Day 3
-#### 
+#### Submission link - https://www.kaggle.com/jonathanobise/exercise-functions-and-getting-help
