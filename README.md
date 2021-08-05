@@ -7,3 +7,6 @@
 
 ## [30 Days of ML] Day 2
 #### Submission link - https://www.kaggle.com/jonathanobise/exercise-syntax-variables-and-numbers
+
+## [30 Days of ML] Day 3
+#### 
