@@ -4,3 +4,6 @@
 
 ## [30 Days of ML] Day 1 – 👋 Welcome!
 #### Submission link - https://www.kaggle.com/jonathanobise/getting-started-with-titanic
+
+## [30 Days of ML] Day 2
+#### Submission link - https://www.kaggle.com/jonathanobise/exercise-syntax-variables-and-numbers
